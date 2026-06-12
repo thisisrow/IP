@@ -1,0 +1,443 @@
+EASY DSA QUESTIONS (1–50) 
+Arrays (1–20) 
+    Find the largest element in an array.  
+    Find the smallest element in an array.  
+    Find the second largest element.  
+    Find the second smallest element.  
+    Reverse an array.  
+    Calculate the sum of all elements.  
+    Calculate the average of array elements.  
+    Count even and odd numbers in an array.  
+    Find the maximum difference between two elements.  
+    Check if an array is sorted.  
+    Find the frequency of a given element.  
+    Find all occurrences of a given element.  
+    Count duplicate elements in an array.  
+    Remove duplicates from a sorted array.  
+    Move all zeros to the end.  
+    Move all negative numbers to the beginning.  
+    Rotate an array left by one position.  
+    Rotate an array right by one position.  
+    Merge two arrays.  
+    Find the union of two arrays.common elements between two arrays.  
+Strings (21–35) 
+    Reverse a string.  
+    Check if a string is a palindrome.  
+    Count vowels in a string.  
+    Count consonants in a string.  
+    Count digits in a string.  
+    Count special characters in a string.  
+    Convert lowercase letters to uppercase.  
+    Convert uppercase letters to lowercase.  
+    Toggle the case of a string.  
+    Find the length of a string without built-in functions.  
+    Remove spaces from a string.  
+    Count occurrences of a character.  
+    Find the first character of a string that repeats.  
+    Find the first non-repeating character.  
+    Check whether two strings are equal.  
+Math (36–45) 
+    Check if a number is even or odd.  
+    Check if a number is prime.  
+    Find all factors of a number.  
+    Calculate factorial of a number.  
+    Calculate GCD of two numbers.  
+    Calculate LCM of two numbers.  
+    Count digits in a number.  
+    Reverse a number.  
+    Find the sum of digits of a number.  
+    Check if a number is a palindrome.  
+Basic Hashing & Logic (46–50) 
+    Find the most frequent element in an array.  
+    Count the frequency of every element in an array.  
+    Count the frequency of every character in a string.  
+    Find the missing number from 1 to N.  
+    Find the unique element where every other element appears twice. 
+    Arrays & Hashing (51–65) 
+    Find the pair of elements whose sum equals a given target.  
+    Find all pairs with a given difference K.  
+    Find the majority element in an array.  
+    Find the element occurring more than N/3 times.  
+    Find the intersection of two unsorted arrays.  
+    Find the union of two arrays.  
+    Find the first missing positive integer.  
+    Find the longest consecutive sequence.  
+    Find all duplicates in an array.  
+    Find the product of array elements except self.  
+    Find the equilibrium index of an array.  
+    Rearrange positive and negative numbers alternately.  
+    Find the leader elements in an array.  
+    Determine if an array can be divided into pairs with equal sums.  
+    Find the minimum number of swaps required to sort an array.  
+Sliding Window & Two Pointers (66–75) 
+    Find the maximum sum subarray of size K.  
+    Find the minimum sum subarray of size K.  
+    Find the longest subarray with sum K.  
+    Find the smallest subarray with sum greater than X.  
+    Find the longest substring without repeating characters.  
+    Find the longest substring containing at most K distinct characters.  
+    Find the maximum number of consecutive 1s after flipping at most one 0.  
+    Check if a pair exists in a sorted array with a given sum.  
+    Find all triplets with sum equal to zero.  
+    Remove duplicates from a sorted array in-place.  
+    Prefix Sum & Subarrays (76–82) 
+    Count subarrays with sum equal to K.  
+    Count subarrays with sum divisible by K.  
+    Find the maximum subarray sum (Kadane’s Algorithm).  
+    Find the minimum subarray sum.  
+    Find the longest subarray with equal number of 0s and 1s.  
+    Find the subarray with maximum product.  
+    Count the number of subarrays containing only distinct elements.  
+Strings (83–92) 
+    Check if two strings are anagrams.  
+    Group all anagrams together.  
+    Find the longest common prefix among strings.  
+    Compress a string using character frequencies.  
+    Check if a string is a valid palindrome after removing at most one character.  
+    Find the longest palindromic substring.  
+    Count all palindromic substrings.  
+    Check whether one string is a rotation of another.  
+    Find the minimum number of characters required to make a string palindrome.  
+    Find the longest repeating character sequence.  
+Binary Search (93–97) 
+    Find an element in a rotated sorted array.  
+    Find the first occurrence of an element in a sorted array.  
+    Find the last occurrence of an element in a sorted array.  
+    Find the square root of a number using binary search.  
+    Find the peak element in an array.  
+    Recursion & Basic Backtracking (98–100) 
+    Generate all subsets of an array.  
+    Generate all permutations of a string.  
+    Solve the Tower of Hanoi problem.  
+Advanced Arrays & Hashing (101–115) 
+    Find the longest subarray with sum equal to zero.  
+    Count the number of subarrays with XOR equal to K.  
+    Find the longest subarray with equal number of positive and negative numbers.  
+    Find the smallest missing positive integer in O(n) time.  
+    Find the maximum product triplet in an array.  
+    Find all quadruplets with a given sum (4-Sum).  
+    Count inversions in an array.  
+    Find the maximum gap between successive elements after sorting.  
+    Find the shortest unsorted continuous subarray.  
+    Determine if an array can be partitioned into two equal-sum subsets.  
+    Find the minimum number of jumps to reach the end of an array.  
+    Find the maximum sum increasing subsequence.  
+    Find the longest bitonic subsequence.  
+    Count pairs whose sum lies within a given range.  
+    Find the maximum circular subarray sum.  
+Advanced Sliding Window & Two Pointers (116–125) 
+    Find the minimum window substring containing all characters of another string.  
+    Find the longest repeating character replacement.  
+    Count distinct elements in every window of size K.  
+    Find the maximum in every sliding window.  
+    Find the shortest subarray with sum at least K.  
+    Find the longest subarray containing at most two distinct elements.  
+    Count substrings containing all vowels.  
+    Find the number of nice subarrays with exactly K odd numbers.  
+    Find the longest substring after replacing at most K characters.  
+    Count binary subarrays with a given sum.  
+Binary Search & Search Space Problems (126–133) 
+    Find the median of two sorted arrays.  
+    Find the minimum element in a rotated sorted array.  
+    Find the rotation count of a sorted array.  
+    Allocate minimum pages to students.  
+    Split array to minimize the largest subarray sum.  
+    Find the kth smallest element in a sorted matrix.  
+    Aggressive Cows problem.  
+    Find the minimum speed required to finish tasks within a deadline.  
+Strings (134–140) 
+    Find the longest palindromic subsequence.  
+    Find the minimum insertions required to make a string palindrome.  
+    Find the edit distance between two strings.  
+    Find all occurrences of a pattern using KMP Algorithm.  
+    Find the shortest palindrome by adding characters in front.  
+    Determine whether two strings are one edit distance apart.  
+    Find the longest common subsequence of two strings.  
+    Stack & Monotonic Stack (141–145) 
+    Next Greater Element.  
+    Next Smaller Element.  
+    Largest Rectangle in Histogram.  
+    Trapping Rain Water.  
+    Daily Temperatures problem.  
+Backtracking & Recursion (146–150) 
+    Solve the N-Queens problem.  
+    Generate all valid parentheses combinations.  
+    Solve the Rat in a Maze problem.  
+    Find all combinations that sum to a target value.  
+    Solve the Sudoku puzzle. 
+Dynamic Programming (151–170) 
+    Find the Longest Increasing Subsequence (LIS).  
+    Find the Longest Decreasing Subsequence.  
+    Find the Longest Bitonic Subsequence.  
+    Solve the 0/1 Knapsack Problem.  
+    Solve the Unbounded Knapsack Problem.  
+    Find the minimum number of coins required to make a value.  
+    Count the number of ways to make a value using coins.  
+    Solve the Rod Cutting Problem.  
+    Find the maximum sum of non-adjacent elements.  
+    Find the minimum cost to climb stairs.  
+    Count unique paths in a grid.  
+    Count unique paths with obstacles.  
+    Find the minimum path sum in a matrix.  
+    Solve the House Robber problem.  
+    Solve House Robber II (circular houses).  
+    Find the Longest Common Subsequence.  
+    Find the Longest Common Substring.  
+    Find the Shortest Common Supersequence.  
+    Find the minimum insertions and deletions to convert one string into another.  
+    Solve the Partition Equal Subset Sum problem.  
+Graphs (171–185) 
+    Implement Breadth First Search (BFS).  
+    Implement Depth First Search (DFS).  
+    Detect a cycle in an undirected graph.  
+    Detect a cycle in a directed graph.  
+    Find the number of connected components.  
+    Check whether a graph is bipartite.  
+    Find the shortest path in an unweighted graph.  
+    Find the shortest path in a DAG.  
+    Implement Dijkstra’s Algorithm.  
+    Implement Bellman-Ford Algorithm.  
+    Implement Floyd-Warshall Algorithm.  
+    Find the Minimum Spanning Tree using Kruskal’s Algorithm.  
+    Find the Minimum Spanning Tree using Prim’s Algorithm.  
+    Find all bridges in a graph.  
+    Find all articulation points in a graph.  
+Trees & Binary Trees (186–193) 
+    Find the diameter of a binary tree.  
+    Find the maximum path sum in a binary tree.  
+    Check whether a binary tree is balanced.  
+    Find the Lowest Common Ancestor (LCA) in a binary tree.  
+    Perform vertical order traversal.  
+    Perform boundary traversal of a binary tree.  
+    Find the top view of a binary tree.  
+    Find the bottom view of a binary tree.  
+Binary Search Trees (194–196) 
+    Find the kth smallest element in a BST.  
+    Validate whether a binary tree is a BST.  
+    Convert a BST into a sorted doubly linked list.  
+Trie & String Algorithms (197–198) 
+    Implement a Trie and support insert/search operations.  
+    Find the longest word that can be formed from a dictionary using a Trie.  
+    Advanced Backtracking & Greedy (199–200) 
+    Solve the Word Search problem in a matrix.  
+    Find the minimum number of platforms required for trains. 
+Advanced Dynamic Programming (201–215) 
+    Solve the Matrix Chain Multiplication problem.  
+    Solve the Egg Dropping Puzzle.  
+    Find the optimal strategy for a game where players pick coins from either end.  
+    Count the number of ways to parenthesize a boolean expression to evaluate to true.  
+    Solve the Burst Balloons problem.  
+    Find the maximum profit with at most K stock transactions.  
+    Solve the Palindrome Partitioning II problem.  
+    Find the minimum cuts required to partition a string into palindromes.  
+    Count distinct subsequences of a string.  
+    Solve the Wildcard Pattern Matching problem.  
+    Solve Regular Expression Matching.  
+    Find the longest valid parentheses subsequence.  
+    Solve DP on Trees: Maximum Independent Set.  
+    Find the diameter of a tree using DP.  
+    Solve Traveling Salesman Problem using Bitmask DP.  
+Advanced Graph Algorithms (216–230) 
+    Find Strongly Connected Components using Kosaraju's Algorithm.  
+    Find Strongly Connected Components using Tarjan's Algorithm.  
+    Solve the Alien Dictionary problem.  
+    Find the shortest path in a weighted DAG.  
+    Find the number of distinct shortest paths between two nodes.  
+    Implement Topological Sort using DFS.  
+    Implement Kahn's Algorithm for Topological Sorting.  
+    Detect negative weight cycles using Bellman-Ford.  
+    Solve the Network Delay Time problem.  
+    Find critical connections in a network.  
+    Solve the Course Schedule II problem.  
+    Find the city with the smallest number of reachable neighbors within a threshold.  
+    Find the cheapest flight within K stops.  
+    Solve the Word Ladder problem.  
+    Find the minimum effort path in a grid.  
+Segment Trees & Fenwick Trees (231–238) 
+    Implement a Segment Tree for range sum queries.  
+    Implement a Segment Tree for range minimum queries.  
+    Implement lazy propagation in a Segment Tree.  
+    Find the maximum subarray sum using a Segment Tree.  
+    Implement a Fenwick Tree (Binary Indexed Tree).  
+    Count inversions using a Fenwick Tree.  
+    Process dynamic range updates efficiently.  
+    Solve range frequency queries using Segment Trees.  
+    Advanced Tree Problems (239–244) 
+    Serialize and deserialize a binary tree.  
+    Find the maximum width of a binary tree.  
+    Construct a binary tree from preorder and inorder traversals.  
+    Construct a binary tree from postorder and inorder traversals.  
+    Find all nodes at distance K from a target node.  
+    Flatten a binary tree into a linked list.  
+Advanced String Algorithms (245–250) 
+    Implement Rabin-Karp Pattern Matching.  
+    Implement Z-Algorithm for pattern matching.  
+    Implement Manacher’s Algorithm for longest palindromic substring.  
+    Find the longest repeated substring in a string.  
+    Find the shortest unique prefix for every word in a dictionary.  
+    Find the longest common substring among multiple strings. 
+    Find the element that appears once when every other element appears exactly three times.  
+    Find two missing numbers from the range 1 to N.  
+    Find two repeating numbers in an array.  
+    Rearrange an array so that arr[i] becomes arr[arr[i]] without using extra space.  
+    Find the smallest positive integer that cannot be represented as a subset sum.  
+    Find the maximum product of any two numbers without sorting.  
+    Determine whether an array can be reordered into doubled pairs.  
+    Find the minimum number of operations to make all array elements equal.  
+    Find the longest mountain in an array.  
+    Find the maximum chunks into which an array can be split and sorted independently.  
+    Determine if an array can become non-decreasing by modifying at most one element.  
+    Find the shortest subarray which, if sorted, sorts the entire array.  
+    Rearrange an array into a wave pattern.  
+    Find all elements that occur exactly ⌊N/4⌋ times.  
+    Find the minimum distance between two given numbers in an array.  
+Strings & Patterns (266–280) 
+    Check if a string follows a given word pattern.  
+    Find the minimum window containing all distinct characters of the string itself.  
+    Rearrange characters so that no two adjacent characters are the same.  
+    Determine if one string can be transformed into another using only adjacent swaps.  
+    Find the smallest substring containing all vowels.  
+    Count substrings that start and end with the same character.  
+    Find the longest substring where every character appears at least K times.  
+    Check if a string can become a palindrome after exactly one swap.  
+    Find the lexicographically smallest rotation of a string.  
+    Find the minimum number of reversals required to balance brackets.  
+    Count binary substrings with equal consecutive 0s and 1s.  
+    Determine whether a string can be segmented into valid dictionary words.  
+    Find all possible palindrome partitions of a string.  
+    Find the shortest uncommon subsequence between two strings.  
+    Convert a Roman numeral to an integer and vice versa.  
+Math & Number Theory (281–290) 
+    Find the nth digit in the infinite sequence 123456789101112...  
+    Count trailing zeros in N! for very large N.  
+    Find the largest power of 2 less than or equal to N.  
+    Determine whether a number is a happy number.  
+    Find the next greater number using the same digits.  
+    Find the count of numbers having exactly three divisors.  
+    Count primes in a given range efficiently.  
+    Find the smallest number with exactly N divisors.  
+    Determine whether a number can be expressed as the sum of two squares.  
+    Find the kth factor of a number.  
+Logic, Simulation & Design Thinking (291–300) 
+    Simulate a browser history with back and forward operations.  
+    Design a stack that supports getMin() in O(1).  
+    Design a queue using two stacks.  
+    Design a stack using two queues.  
+    Implement an LRU Cache.  
+    Design a data structure supporting insert, delete, and random access in O(1).  
+    Simulate the Josephus elimination process.  
+    Find the celebrity in a party using the minimum number of questions.  
+    Design a hit counter that records events in the last 5 minutes.  
+    Design a parking lot system supporting different vehicle types. 
+Arrays, Hashing & Two Pointers (301–310) 
+    Find the longest subarray with at most K distinct elements.  
+    Find all triplets whose sum is closest to a target value.  
+    Find the maximum product subarray.  
+    Find the minimum length subarray with sum at least K.  
+    Find the intersection of three sorted arrays.  
+    Find the longest consecutive sequence using hashing.  
+    Find the maximum sum pair with equal digit sums.  
+    Find all pairs whose XOR equals a given value.  
+    Determine whether an array can be partitioned into consecutive groups of size K.  
+    Find the shortest path to collect all distinct values in an array.  
+Strings & Pattern Matching (311–320) 
+    Find the longest common prefix among multiple strings.  
+    Count distinct palindromic substrings.  
+    Find the minimum deletions required to make two strings equal.  
+    Find all anagram occurrences of a pattern in a string.  
+    Determine whether two strings are isomorphic.  
+    Find the longest substring with exactly K distinct characters.  
+    Find the minimum characters needed to prepend to make a string palindrome.  
+    Group shifted strings together.  
+    Find the smallest window containing all characters of another string.  
+    Decode an encoded string such as "3[a2[c]]".  
+Linked Lists (321–330) 
+    Reverse a linked list iteratively.  
+    Reverse a linked list recursively.  
+    Detect a cycle in a linked list.  
+    Find the starting node of a cycle.  
+    Merge K sorted linked lists.  
+    Remove the nth node from the end.  
+    Check if a linked list is a palindrome.  
+    Flatten a multilevel linked list.  
+    Clone a linked list with random pointers.  
+    Sort a linked list in O(n log n).  
+Trees & BSTs (331–340) 
+    Find the Lowest Common Ancestor in a BST.  
+    Find the Lowest Common Ancestor in a binary tree.  
+    Perform zigzag level-order traversal.  
+    Convert a sorted array into a balanced BST.  
+    Find all root-to-leaf paths.  
+    Find the sum of all left leaves.  
+    Determine whether two binary trees are identical.  
+    Find the kth largest element in a BST.  
+    Convert a binary tree into its mirror image.  
+    Find the largest BST subtree inside a binary tree.  
+Graphs, Heaps & Greedy (341–350) 
+    Find the kth largest element using a heap.  
+    Merge K sorted arrays using a priority queue.  
+    Find the top K frequent elements.  
+    Reorganize a string so adjacent characters differ.  
+    Find the minimum cost to connect all points.  
+    Find the shortest path in a binary matrix.  
+    Determine whether a graph is a valid tree.  
+    Find the number of islands in a grid.  
+    Schedule tasks with cooldown periods.  
+    Find the minimum number of meeting rooms required. 
+Arrays & Hashing (351–360) 
+    Two Sum.  
+    Three Sum.  
+    Four Sum.  
+    Contains Duplicate II.  
+    Find the longest consecutive sequence.  
+    Subarray Sum Equals K.  
+    Continuous Subarray Sum.  
+    Maximum Size Subarray Sum Equals K.  
+    Top K Frequent Elements.  
+    Find all numbers disappeared in an array.  
+Sliding Window & Two Pointers (361–370) 
+    Longest Repeating Character Replacement.  
+    Minimum Window Substring.  
+    Permutation in String.  
+    Sliding Window Maximum.  
+    Longest Substring Without Repeating Characters.  
+    Longest Substring with At Most K Distinct Characters.  
+    Container With Most Water.  
+    Trapping Rain Water.  
+    Valid Palindrome II.  
+    Move Zeroes.  
+Binary Search & Sorting (371–375) 
+    Search in Rotated Sorted Array.  
+    Find First and Last Position of an Element in a Sorted Array.  
+    Koko Eating Bananas.  
+    Median of Two Sorted Arrays.  
+    Find Peak Element.  
+Linked List (376–380) 
+    Add Two Numbers represented by Linked Lists.  
+    Reverse Nodes in K-Groups.  
+    Copy List with Random Pointer.  
+    Merge K Sorted Lists.  
+    LRU Cache Implementation.  
+Trees & BST (381–390) 
+    Binary Tree Level Order Traversal.  
+    Maximum Depth of Binary Tree.  
+    Diameter of Binary Tree.  
+    Path Sum III.  
+    Lowest Common Ancestor of a Binary Tree.  
+    Validate Binary Search Tree.  
+    Kth Smallest Element in a BST.  
+    Binary Tree Right Side View.  
+    Serialize and Deserialize Binary Tree.  
+    Construct Binary Tree from Traversals.  
+Graphs (391–395) 
+    Number of Islands.  
+    Clone Graph.  
+    Course Schedule.  
+    Word Ladder.  
+    Network Delay Time.  
+Dynamic Programming (396–400) 
+    Coin Change.  
+    Longest Increasing Subsequence.  
+    House Robber.  
+    Edit Distance.  
+    Longest Common Subsequence. 
